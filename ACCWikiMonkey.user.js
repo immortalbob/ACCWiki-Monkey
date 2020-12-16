@@ -10,4 +10,5 @@ $('.mcf-content').remove();
 $('.WikiaRail').remove();
 $('.home-top-right-ads').remove();
 $('.WikiaTopAds').remove();
+$('.unified-search__community').remove();
 
